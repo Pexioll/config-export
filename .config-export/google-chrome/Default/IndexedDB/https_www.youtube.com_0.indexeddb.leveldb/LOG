@@ -1,6 +1,0 @@
-2024/04/02-12:03:17.819 4e0 Reusing MANIFEST /home/pawel/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/02-12:03:17.819 4e0 Recovering log #3
-2024/04/02-12:03:17.844 4e0 Reusing old log /home/pawel/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2024/04/02-12:03:28.263 4e1 Level-0 table #5: started
-2024/04/02-12:03:28.295 4e1 Level-0 table #5: 1271161 bytes OK
-2024/04/02-12:03:28.300 4e1 Delete type=0 #3
