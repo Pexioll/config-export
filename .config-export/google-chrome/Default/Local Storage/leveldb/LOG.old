@@ -1,0 +1,35 @@
+2024/04/01-13:07:18.925 4 Reusing MANIFEST /home/pawel/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/04/01-13:07:18.933 4 Recovering log #121
+2024/04/01-13:07:18.937 4 Level-0 table #124: started
+2024/04/01-13:07:18.981 4 Level-0 table #124: 46375 bytes OK
+2024/04/01-13:07:19.022 4 Delete type=0 #121
+2024/04/01-13:07:19.024 5 Compacting 4@0 + 1@1 files
+2024/04/01-13:07:19.061 5 Generated table #126@0: 285 keys, 393143 bytes
+2024/04/01-13:07:19.062 5 Compacted 4@0 + 1@1 files => 393143 bytes
+2024/04/01-13:07:19.102 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/01-13:07:19.103 5 Delete type=2 #124
+2024/04/01-13:07:19.103 5 Delete type=2 #122
+2024/04/01-13:07:19.103 5 Delete type=2 #120
+2024/04/01-13:07:19.103 5 Delete type=2 #118
+2024/04/01-13:07:19.103 5 Delete type=2 #116
+2024/04/01-13:07:53.342 4 Level-0 table #128: started
+2024/04/01-13:07:53.350 4 Level-0 table #128: 137941 bytes OK
+2024/04/01-13:07:53.354 4 Delete type=0 #125
+2024/04/01-13:13:32.404 4 Level-0 table #130: started
+2024/04/01-13:13:32.409 4 Level-0 table #130: 65090 bytes OK
+2024/04/01-13:13:32.413 4 Delete type=0 #127
+2024/04/01-13:18:10.674 5 Level-0 table #132: started
+2024/04/01-13:18:10.678 5 Level-0 table #132: 68194 bytes OK
+2024/04/01-13:18:10.683 5 Delete type=0 #129
+2024/04/01-13:27:05.283 4 Level-0 table #134: started
+2024/04/01-13:27:05.288 4 Level-0 table #134: 50394 bytes OK
+2024/04/01-13:27:05.291 4 Delete type=0 #131
+2024/04/01-13:27:05.292 4 Compacting 4@0 + 1@1 files
+2024/04/01-13:27:05.304 4 Generated table #135@0: 318 keys, 391419 bytes
+2024/04/01-13:27:05.304 4 Compacted 4@0 + 1@1 files => 391419 bytes
+2024/04/01-13:27:05.307 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/01-13:27:05.308 4 Delete type=2 #134
+2024/04/01-13:27:05.308 4 Delete type=2 #130
+2024/04/01-13:27:05.308 4 Delete type=2 #128
+2024/04/01-13:27:05.308 4 Delete type=2 #126
+2024/04/01-13:27:05.308 4 Delete type=2 #132
